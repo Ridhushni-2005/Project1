@@ -1,4 +1,16 @@
 body
 {
-    background-color: powderblue;
+    
+}
+.Document{
+    background-color: bisque;
+    border: 2px solid black;
+    position:absolute;
+    margin-top: 50px;
+}
+.Myself{
+    background-color: blueviolet;
+    border: 5px solid black;
+    position:absolute;
+    
 }
