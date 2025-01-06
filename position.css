@@ -1,6 +1,6 @@
 body
 {
-    
+
 }
 .Document{
     background-color: bisque;
@@ -10,7 +10,6 @@ body
 }
 .Myself{
     background-color: blueviolet;
-    border: 5px solid black;
+    border: 5px solid rgb(34, 143, 164);
     position:absolute;
-    
 }

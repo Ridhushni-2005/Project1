@@ -1,0 +1,21 @@
+.container{
+
+}
+.one{
+    
+    background-color: orange;
+    height: 200px;
+    width: 100vw;
+}
+.two{
+   
+    background-color: white;
+    height: 200px;
+    width: 100vw;
+}   
+.three{
+   
+    background-color: green;
+    height: 200px;
+    width: 100vw;
+}   
